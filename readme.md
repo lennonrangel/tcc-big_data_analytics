@@ -29,7 +29,7 @@ Para executar o códigog em seu próprio sistema, siga estas etapas:
 - Certifique-se de que o Arduino esteja conectado ao computador.
 - Clonar ou Baixar o Repositório:
 
-<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1142980569102307409/Magnificent_Turing.png?width=1025&height=296">
+<br><img src="https://cdn.discordapp.com/attachments/1002050908156334082/1153109437100347413/Medidor_de_Temperatura.png">
 
 ### 2. Executar o Código:
 
