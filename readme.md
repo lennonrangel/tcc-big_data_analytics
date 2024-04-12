@@ -29,7 +29,7 @@ Para executar o códigog em seu próprio sistema, siga estas etapas:
 - Certifique-se de que o Arduino esteja conectado ao computador.
 - Clonar ou Baixar o Repositório:
 
-<br><img src="https://cdn.discordapp.com/attachments/1002050908156334082/1153109437100347413/Medidor_de_Temperatura.png">
+<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1153109437100347413/Medidor_de_Temperatura.png?ex=6625a059&is=66132b59&hm=6388ff145f746af197b6025f435caec0265db55fc7462ee3c5ab047c6a12afab&=&format=webp&quality=lossless&width=1025&height=355">
 
 ### 2. Executar o Código:
 
