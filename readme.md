@@ -1,4 +1,4 @@
-# TCC - BIG DATA ANALYTICS
+# TCC - BIG DATA ANALYTICS: UMA APLICAÇÃO DE COLETA DE DADOS DE UM SENSOR DE TEMPERATURA COM ARDUINO E MATLAB
 
 ## Introdução
 
@@ -29,7 +29,9 @@ Para executar o códigog em seu próprio sistema, siga estas etapas:
 - Certifique-se de que o Arduino esteja conectado ao computador.
 - Clonar ou Baixar o Repositório:
 
-<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1153109437100347413/Medidor_de_Temperatura.png?ex=6625a059&is=66132b59&hm=6388ff145f746af197b6025f435caec0265db55fc7462ee3c5ab047c6a12afab&=&format=webp&quality=lossless&width=1025&height=355">
+<div align="center">
+  <br><img src="https://github.com/user-attachments/assets/74d9f44d-0c55-44d6-a0a0-f1d3f0189a5f" aling=center>
+</div>
 
 ### 2. Executar o Código:
 
